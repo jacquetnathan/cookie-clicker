@@ -1,0 +1,24 @@
+.container-fluid {
+  font-family: 'Indie Flower', cursive;
+  margin-top: 5%;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-fluid h2 {
+  font-family: 'Bangers', cursive;
+}
+
+.container-fluid .sectionClick {
+  text-align: center;
+}
+
+.container-fluid .sectionClick button {
+  color: #fff;
+}
+
+.container-fluid .sectionClick button:active {
+  outline-style:none;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,23 @@
+.container-fluid{
+    font-family: 'Indie Flower', cursive;
+    margin-top:5%;
+    width:75%;
+    margin-left:auto;margin-right:auto;
+
+    h2 {
+        font-family: 'Bangers', cursive;
+    }
+
+    .sectionClick {
+        text-align:center;
+
+        button{
+            color:#fff;
+
+            :active{
+                outline-style:none;
+            }
+        }
+    }
+
+}
